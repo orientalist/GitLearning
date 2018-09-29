@@ -3,3 +3,7 @@ Step1:
 Step2:
 	Terminal:
 		git remote add original (the url of repository)
+Step3:
+	Terminal:
+		push files to repository:
+			git push -u origin master
