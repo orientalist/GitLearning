@@ -1,0 +1,5 @@
+Step1:
+	Create repository on GitHub
+Step2:
+	Terminal:
+		git remote add original (the url of repository)
