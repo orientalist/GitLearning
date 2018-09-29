@@ -1,0 +1,16 @@
+Git terminal
+Step1:
+	Set a folder as repository:
+		cd to that folder then "git init"
+Step2:
+	Put file you want to control by Git.
+Step3:
+	cd to the repository then "git add <filename>"
+Step4:
+	Use git status to check the status of files controlled by Git
+#Untill now, the add command has not been committed.
+Step4:
+	git commit -m "Initialize files controlled by Git"
+#before that set :
+	git config --global user.email "orientest99@gmail.com"
+	git config --global user.name "orientalist"
