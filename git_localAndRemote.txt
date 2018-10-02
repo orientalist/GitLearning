@@ -1,0 +1,8 @@
+1  To trace status of remote repository,use:
+	cd to folder of local repository
+	terminal:git fetch
+2  To get all files as remote repository:
+	cd to folder of local repository
+	terminal:git pull
+	#if the local file is different from remote one,
+	it will keep local.
