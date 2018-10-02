@@ -6,3 +6,7 @@
 	terminal:git pull
 	#if the local file is different from remote one,
 	it will keep local.
+3  To know the difference between branch and branch,
+	1.terminal:git branch -a :to list all name of branch.
+	2.terminal:git diff <name of branch> <name of branch>
+	#name of remote branch should delete "remotes/"
