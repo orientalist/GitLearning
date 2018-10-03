@@ -1,0 +1,4 @@
+--git remote add origin https://github.com/x774436248/WorkingArea.git
+	In this step,origin means url behind.
+--git push -u origin master
+	Origin equals url setted in previo step,master means branch named master
